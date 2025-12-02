@@ -41,8 +41,8 @@ public class Startup
 
             (f) ->
             {
-                f.setResizable(true);    // 画面リサイズ可能
-                f.setSize(400, 300); // 初期画面サイズ指定
+                f.setResizable(true);  // 画面リサイズ可能
+                f.setSize(400, 300);  // 初期画面サイズ指定
             },
 
             VStack.of

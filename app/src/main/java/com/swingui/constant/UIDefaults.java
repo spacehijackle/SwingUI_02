@@ -8,5 +8,5 @@ package com.swingui.constant;
 public class UIDefaults
 {
     /** コンポーネント間デフォルト間隔 */
-    public static int COMPONENT_GAP = 8;
+    public static final int COMPONENT_GAP = 8;
 }
